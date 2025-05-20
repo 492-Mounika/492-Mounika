@@ -7,6 +7,14 @@
 💻 Interested in RTL to GDSII, STA, DRC/LVS, TCL Scripting
 
 ---
+
+## 🚀 Featured Projects
+
+- [analog-layout-magic-sky130](https://github.com/492-Mounika/analog-layout-magic-sky130)  
+  Layout and simulation of passive components (resistors, capacitors) using Magic VLSI.
+
+---
+
 ## 📈 GitHub Stats
 
 ![Mounika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=492-Mounika&show_icons=true&theme=tokyonight)
