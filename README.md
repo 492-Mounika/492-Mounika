@@ -1,77 +1,60 @@
 # 👋 Hi, I'm Mounika
 
-🎓 I’m a 2nd-year B.Tech ECE student passionate about **VLSI design**, especially the **analog layout** and **digital RTL design** side using open-source tools.
+🎓 I’m a 2nd-year B.Tech ECE student with a growing passion for **VLSI Design**, focusing on **RTL Design**, **Functional Verification**, and **Digital Logic Implementation**.
 
-🔬 Currently exploring the **Skywater 130nm PDK** through hands-on projects involving layout design and simulation, alongside digital design fundamentals learned in the HCL Tech course.
-
-💻 Interested in RTL to GDSII, STA, DRC/LVS, TCL Scripting
+💡 Currently building strong proficiency in **Verilog/SystemVerilog**, RTL coding, and the **ASIC Frontend Design Flow** through coursework (HCL Tech VLSI) and hands-on personal projects.
 
 ---
-
-## 🚀 Featured Projects
-
-- [analog-layout-magic-sky130](https://github.com/492-Mounika/analog-layout-magic-sky130)  
-  Layout and simulation of passive components (resistors, capacitors) using Magic VLSI.
-
----
-
-## 📈 GitHub Stats
-
-![Mounika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=492-Mounika&show_icons=true&theme=tokyonight)
 
 ## 🛠️ Skills
 
-### 🔧 VLSI Design (Analog Layout & Simulation)
+### 💻 RTL Design & Digital Logic
 
-- Designed passive components like **resistors and capacitors** using `Magic VLSI`
-- Simulated analog circuits (e.g., RC circuits, transient analysis) using `NGSpice`
-- Used `Sky130 PDK` for layout and simulation with open-source tools
-- Basic understanding of the analog flow: schematic → layout → simulation → verification
+- Learning to design **combinational and sequential logic** blocks in Verilog (MUX, ALU, FSMs, counters)
+- Learning to develop **testbenches** and simulate designs using `EDA Playground`, `ModelSim`, and `GTKWave`
+- Understanding of **ASIC frontend flow**: RTL → Simulation → Synthesis
 
-### 🛠️ Tools Used
+### 🧪 Verification & Debugging
 
-- `Magic VLSI` – Layout design, DRC checks  
-- `NGSpice` – Transient and basic analog simulations  
-- `Skywater 130nm PDK` – Technology used for designs  
-- `Linux Terminal` – Running tools, file management, and scripting
+- Learning `SystemVerilog` for writing structured testbenches  
+- Gaining experience in **functional simulation**, **waveform analysis**, and **bug tracing**
 
-### 💻 Programming & Scripting
+### ⚙️ Tools & Technologies
 
-- `SPICE Netlists` – Simulating analog circuits  
-- `Python` – Beginner level (data and automation tasks)  
-- `Shell` – Basic scripting for Linux workflows
+- `Verilog`, `SystemVerilog`  
+- `EDA Playground`, `ModelSim`, `GTKWave`  
+- `Linux`, `Git`, basic scripting in `Python`
 
 ---
 
-## 🌱 Learning in Progress
+## 🌱 Currently Learning
 
-- Developing strong skills in **physical design flow** including floorplanning, placement, clock tree synthesis (CTS), routing, and static timing analysis (STA)  
-- Gaining proficiency with **open-source physical design tools** like OpenROAD and related TCL scripting for automation  
-- Improving understanding of **timing constraints**, **power optimization**, and **design rule checks (DRC)**  
-- Expanding knowledge of **Verilog RTL coding**, **testbench creation**, and **functional simulation** to better integrate digital and physical design steps  
-- Learning to analyze and debug physical design issues such as congestion, IR drop, and timing violations
+- RTL to Synthesis → Gate-level Simulation flow  
+- **Setup/Hold time**, clock domain crossing, metastability  
+- Advanced `SystemVerilog` for better testbench design  
+- Mini-projects: ALU, FIFO, and FSM-based controllers  
+- Basics of UVM (for future verification roles)
 
 ---
 
-## 📚 Academic Knowledge
+## 📚 Academic Foundation
 
 - Digital Logic Design: Combinational & Sequential circuits  
-- Circuit Theory: RC time constants, KVL/KCL  
-- CMOS Basics: Layout concepts, parasitics, design rules  
-- DRC & LVS: Layout verification understanding
+- CMOS Fundamentals: Logic gate implementation & delay  
+- Computer Architecture: Datapath design, control logic, memory systems
 
 ---
 
-## 📌 Goal
+## 🎯 Career Goal
 
-🎯 To become a skilled **VLSI Frontend Engineer** who can efficiently execute and optimize the full physical implementation flow, leveraging both open-source and commercial EDA tools, contributing to high-quality, low-power, and timing-optimized chip designs.
+To become a skilled **Frontend VLSI Engineer** with expertise in **RTL Design**, **Functional Verification**, and **Digital ASIC Design**, contributing to innovative and efficient chip development in the semiconductor industry.
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
 - 📧 Email: imadabathunim@gmail.com  
-- 💼 LinkedIn: [Mounika Imadabathuni](https://www.linkedin.com/in/mounika-imadabathuni-12070228a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 💼 [LinkedIn: Mounika Imadabathuni](https://www.linkedin.com/in/mounika-imadabathuni-12070228a)
 
 ---
 
