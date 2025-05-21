@@ -54,7 +54,7 @@ To become a skilled **Frontend VLSI Engineer** with expertise in **RTL Design**,
 ## 📫 Contact
 
 - 📧 Email: imadabathunim@gmail.com  
-- 💼 [LinkedIn: Mounika Imadabathuni](https://www.linkedin.com/in/mounika-imadabathuni-12070228a)
+- 💼 LinkedIn: [Mounika Imadabathuni](https://www.linkedin.com/in/mounika-imadabathuni-12070228a)
 
 ---
 
