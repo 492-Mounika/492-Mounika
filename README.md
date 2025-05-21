@@ -64,7 +64,7 @@
 
 ## 📌 Goal
 
-🎯 To become a skilled **VLSI Physical Design Engineer** who can efficiently execute and optimize the full physical implementation flow, leveraging both open-source and commercial EDA tools, contributing to high-quality, low-power, and timing-optimized chip designs.
+🎯 To become a skilled **VLSI Frontend Engineer** who can efficiently execute and optimize the full physical implementation flow, leveraging both open-source and commercial EDA tools, contributing to high-quality, low-power, and timing-optimized chip designs.
 
 ---
 
