@@ -40,7 +40,7 @@
 ## 💻 Coding Practice
 
 - 🧠 **LeetCode**: Solving DSA problems regularly to improve logic & debugging skills  
-- ✅ **HackerRank**: 5⭐ in Problem Solving, active in 30 Days of Code  
+- ✅ **HackerRank**: Improving Problem Solving and C++  
 - 🔍 Exploring interview-style challenges in C++ and Python
   
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mounika_imadabathuni)
