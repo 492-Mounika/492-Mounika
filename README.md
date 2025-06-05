@@ -42,7 +42,7 @@
 - 🧠 **LeetCode**: Solving DSA problems regularly to improve logic & debugging skills  
 - ✅ **HackerRank**: 5⭐ in Problem Solving, active in 30 Days of Code  
 - 🔍 Exploring interview-style challenges in C++ and Python
-![LeetCode Stats](https://leetcard.jacoblin.cool/<mounika_imadabathuni>?ext=heatmap)
+![LeetCode](https://img.shields.io/badge/LeetCode-mounika_imadabathuni-orange)
 
 ---
 
