@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mounika
 
-🎓 I’m a 3rd-year B.Tech ECE student with a growing passion for **VLSI Design**, focusing on **RTL Design**, **Functional Verification**, and **Digital Logic Implementation**.
+🎓 I’m a 4th-year B.Tech ECE student with a growing passion for **VLSI Design**, focusing on **RTL Design**, **Functional Verification**, and **Digital Logic Implementation**.
 
 💡 Currently building strong proficiency in **Verilog/SystemVerilog**, RTL coding, and the **ASIC Frontend Design Flow** through coursework (HCL Tech VLSI) and hands-on personal projects.
 
